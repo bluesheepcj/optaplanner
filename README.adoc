@@ -71,4 +71,5 @@ In order to avoid introducing unstable features, the PR will be merged only afte
 
 TODO LIST
 1、LAHC STEP内死循环到结束
-2、Planning Entity没有设置ID，但是为空
+2、Planning Entity没有设置ID，但是为空列表的时候不会检测
+3、MoveListFactory & MoveIteratorFactory 支持 entitySelector
