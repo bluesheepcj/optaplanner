@@ -68,3 +68,7 @@ To consider any individual ticket "Done", following requirements must be satisfi
   . There is test coverage proving the feature works and tests are passing.
 
 In order to avoid introducing unstable features, the PR will be merged only after these points have been fulfilled. For PRs contributed by community the core team will assist with making the functionality meet these conditions.
+
+TODO LIST
+1、LAHC STEP内死循环到结束
+2、Planning Entity没有设置ID，但是为空
