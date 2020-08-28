@@ -73,3 +73,4 @@ TODO LIST
 1、LAHC STEP内死循环到结束
 2、Planning Entity没有设置ID，但是为空列表的时候不会检测
 3、MoveListFactory & MoveIteratorFactory 支持 entitySelector
+4、config xml文件不能跨行写一条配置
